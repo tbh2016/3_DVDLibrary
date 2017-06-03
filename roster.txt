@@ -1,5 +1,2 @@
-156 :: 2 :: 156 :: 156 :: 156 :: 156
-3 :: BOBOBOBOBOB :: 3 :: 3 :: 3 :: bob
-5 :: 5 :: 55 :: 5 :: 5 :: 5
-0001 :: Joe :: Smith :: 13 :: Java :: C++
-9 :: bob :: 9 :: 99 :: 9 :: 9
+1 :: Beauty and the Beast :: November 22, 1991 ::  8/10 :: Gary Trousdale :: Disney
+2 :: The Lion King :: June 15, 1994 ::  8.5/10 :: Roger Allers :: Disney
